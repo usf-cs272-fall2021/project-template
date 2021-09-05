@@ -67,6 +67,7 @@
 					<excludes>
 						<exclude />
 					</excludes>
+					<workingDirectory>../project-tests/</workingDirectory>
 				</configuration>
 			</plugin>
 
