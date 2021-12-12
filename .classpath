@@ -6,7 +6,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" output="target/test-classes" path="Users/sjengle/Dropbox/Academia/Courses/CS 272/Projects/project-tests/src/test/java">
+	<classpathentry kind="src" output="target/test-classes" path="../project-tests/src/test/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
